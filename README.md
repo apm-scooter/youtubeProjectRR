@@ -1,2 +1,2 @@
 # youtubeProjectRR
-searcher videos using the  youtube API 
+searching videos using the  youtube API 
